@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Win11Clone</h1>
 <p align="center">Bringing Windows 11 Experience to Everyone</p>
-# 🚀 Description*
+# 🚀 Description
 
 Win11Clone is a project that aims to democratize access to modern computing by providing a virtual Windows 11 environment accessible through a web browser. It allows users without access to a computer to experience and learn how to use Windows 11, offering a familiar interface for educational purposes and practical learning, thus bridging the digital divide.
 
