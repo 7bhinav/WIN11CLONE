@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[Windows-11-Logo](https://github.com/7bhinav/WIN11CLONE/assets/154069774/5566337f-2ae4-443c-a5e8-d9413b7b0ef2)"
+
+  <img src="![Windows-11-Logo](https://github.com/7bhinav/WIN11CLONE/assets/154069774/5527a0d7-f5f4-4860-8518-e6bf32540f01)"
  alt="Win11Clone Logo" width="200" />
 </p>
 <h1 align="center">Win11Clone</h1>
