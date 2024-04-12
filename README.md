@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Win11Clone</h1>
 <p align="center">Bringing Windows 11 Experience to Everyone</p>
-# 🚀 Description*
+#  🚀 Description*
 
 Win11Clone is a project that aims to democratize access to modern computing by providing a virtual Windows 11 environment accessible through a web browser. It allows users without access to a computer to experience and learn how to use Windows 11, offering a familiar interface for educational purposes and practical learning, thus bridging the digital divide.
 
@@ -22,7 +22,7 @@ React
 Node.js
 VirtualBox
 Vagrant
-📖 Getting Started
+#  📖 Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -42,11 +42,11 @@ Start the development server
 sh
 Copy code
 npm start
-🚦 Usage
+#  🚦 Usage
 
 Access the virtual Windows 11 environment through your web browser.
 Explore the interface, interact with applications, and learn about Windows 11.
-🤝 Contributing
+#  🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -56,7 +56,7 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-🙏 Acknowledgements
+#  🙏 Acknowledgements
 
 This project was inspired by the desire to make technology more accessible to everyone.
 Special thanks to our contributors who have helped make this project possible.
