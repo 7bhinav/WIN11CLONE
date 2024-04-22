@@ -13,7 +13,7 @@ Menu.addEventListener("click", () => {
         DateTimeMenu.style.right = "-500px"
     }
 })
-
+//7bhinav
 SearchIcon = document.getElementById("SearchIcon")
 searchmenu = document.getElementsByClassName("searchmenu")[0]
 
