@@ -34,7 +34,7 @@ Installation
 Clone the repo
 sh
 Copy code
-git clone https://github.com/yourusername/win11clone.git
+git clone https://github.com/7bhinav/win11clone.git
 Install NPM packages
 sh
 Copy code
