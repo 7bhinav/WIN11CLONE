@@ -26,23 +26,11 @@ Vagrant
 #  📖 Getting Started
 
 To get a local copy up and running, follow these simple steps.
-
-Prerequisites
-Node.js
-npm
-Installation
-Clone the repo
-sh
-Copy code
-git clone https://github.com/7bhinav/win11clone.git
-Install NPM packages
-sh
-Copy code
-npm install
-Start the development server
-sh
-Copy code
-npm start
+- **Node.js**: [Download Node.js](https://nodejs.org/)
+- **npm**: Node Package Manager (comes with Node.js)  
+  Check your npm version with:
+  ```sh
+  npm -v
 #  🚦 Usage
 
 Access the virtual Windows 11 environment through your web browser.
